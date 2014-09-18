@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Re-connecting to an activemq connection"
+title:  "Reconnecting to ActiveMQ"
 date:   2014-09-18 09:10:00
 categories: java activemq
 ---
